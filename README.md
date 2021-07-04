@@ -1,2 +1,1 @@
-# arraylooppracticeexercise1JS
-Created with CodeSandbox
+Skills practiced: array, forEach, if statement, % operator
